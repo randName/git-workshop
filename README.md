@@ -1,4 +1,4 @@
-# git-workshop
+ # git-workshop
 Come Edit this file!
 
 Shopping List:
@@ -8,3 +8,5 @@ Shopping List:
 
 Todo:
 Tell teacher he hack me
+
+## So I show you how to git
